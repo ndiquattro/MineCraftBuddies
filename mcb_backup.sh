@@ -1,3 +1,4 @@
+#!/bin/sh
 # Minecraft Buddies Back-up Script
 # Commits and syncs with GitHub
 
