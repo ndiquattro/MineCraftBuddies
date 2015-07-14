@@ -9,6 +9,7 @@ screen -R minecraft -X stuff "save-all $(printf '\r')"
 sleep 3
 
 # Commit
+cd Servers/minecraft/
 git commit -am "Daily Backup"
 
 # Sync
