@@ -10,6 +10,7 @@ sleep 3
 
 # Commit
 cd ~/Servers/minecraft/
+git add Minecraft_Buddies/
 git commit -am "Daily Backup"
 
 # Sync
